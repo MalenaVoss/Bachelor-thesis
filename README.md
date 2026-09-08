@@ -27,8 +27,6 @@ Both hypotheses were tested in serum and urine. The main analysis tests treatmen
 | **PERMANOVA** (overall and pairwise) | Testing group-level differences in overall proteomic composition; pairwise comparisons corrected for multiple testing using Benjamini-Hochberg FDR (via `PyPerMANOVA`) |
 | **Kruskal-Wallis** | Non-parametric test for differences across more than two groups |
 | **Mann-Whitney U** | Non-parametric pairwise group comparison; preferred over the t-test due to non-normality of the data |
-| **Longitudinal within-arm Kruskal-Wallis** | Testing changes over time within each treatment arm |
-| **Wilcoxon signed-rank** | Identified as the appropriate paired test for repeated-measures comparisons |
 
 Additional technical notes:
 
